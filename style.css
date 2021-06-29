@@ -48,7 +48,7 @@ html{
 }
 
 .nav-list li a:hover{
-    color: rgb(207, 206, 206);
+    color: rgb(232 231 231);
 }
 
 .rightNav{
@@ -65,7 +65,7 @@ html{
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.7) url('../img/bg.jpg');
+    background: rgba(0, 0, 0, 0.7) url('bg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
